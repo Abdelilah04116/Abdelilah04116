@@ -2,7 +2,7 @@
 
 ## 🏆 IA ENGINEERING|Data Scientist | Data Analyst | Business Analyst  | Spécialiste Big Data, Deep Learning & Machine Learning
 
-Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Machine Learning et IA Engineering** réalisés dans le cadre de formations et de travaux personnels.
+Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Machine Learning et Deep Learning** réalisés dans le cadre de formations et de travaux personnels.
 
 ---
 
