@@ -42,6 +42,6 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 
 🔷 **📚 Les Projets Académiques**
 
--- [**📊 Projet 1 : Construisez un modèle de scoring**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
+-- [**📊 Projet 1 : Construisez un modèle de classification des actualités**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
 
  
