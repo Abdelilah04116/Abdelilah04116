@@ -34,5 +34,14 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 📊 [Kaggle](https://www.kaggle.com/abdelilahourti)
 
 🚀 N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 🚀  
-## 📌 Mes Projets  
+## 📌 Mes Projets 
+
+🔷 **📚 Data Scientist - OpenClassrooms / CentraleSupélec**  
+
+- [**📊 Projet 4 : Construisez un modèle de scoring**](https://github.com/Abdelilah04116/Construisez-un-mod-le-de-scoring)
+
+🔷 **📚 Les Projets Académiques**
+
+-- [**📊 Projet 1 : Construisez un modèle de scoring**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
+
  
