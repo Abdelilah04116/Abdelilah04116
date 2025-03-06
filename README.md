@@ -1,12 +1,12 @@
 # 👋 Hello, je suis OURTI ABDELILAH !
 
-## 🏆 IA ENGINEERING|Data Scientist | Data Analyst | Business Analyst  | Spécialiste Big Data, Deep Learning & Machine Learning
+## 🏆 IA ENGINEERING|Data Scientist | Data Analyst 
 
 Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Machine Learning et Deep Learning** réalisés dans le cadre de formations et de travaux personnels.
 
 ---
 
-## 🔥 Mes Compétences
+##  Mes Compétences
 
 ### 🔹 Langages de Programmation
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras)
@@ -15,14 +15,13 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 - Java ,**C**,**C++**,**C#**
 
 ### 📊 Analyse et Visualisation de Données
-- Power BI, Tableau, Jupyter Notebook, Streamlit, Google Colab, VS Code
-- Matplotlib, Seaborn
+- Matplotlib, Seaborn,foluim
 
 ### 🤖 Machine Learning & Deep learning 
 - Apprentissage supervisé et non supervisé : Régression, Classification, Clustering
 - Apprentissage par renforcement : Agents intelligents, Politique d’action, Récompense et Exploration/Exploitation
 - **NLP** (Traitement du langage naturel) : BERT, CountVectorizer, TF-IDF, Word2Vec
-- **CNN** (Réseaux de Neurones Convolutifs) : Classification d'images, Détection d'objets, Segmentation sémantique, Réseaux comme VGG, ResNet, EfficientNet
+- **CNN** (Réseaux de Neurones Convolutifs) : Classification d'images, Détection d'objets, Segmentation sémantique
 - **RNN** (Réseaux de neurones récurrents)  : LSTM, GRU, Modélisation de séquences, Prévision de séries temporelles
 
 ## 📩 Me Contacter  
@@ -38,10 +37,12 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 
 🔷 **📚 Data Scientist - OpenClassrooms / CentraleSupélec**  
 
-- [**📊 Projet 4 : Construisez un modèle de scoring**](https://github.com/Abdelilah04116/Construisez-un-mod-le-de-scoring)
+- [**📊 Projet 4 : La Construction d'un modèle de scoring**](https://github.com/Abdelilah04116/Construisez-un-mod-le-de-scoring)
+- [**📊 Projet 5 : La Segmentation des clients d'un site e-commerce**](https://github.com/Abdelilah04116/Segmentez_des_clients_d_un_site_ecommerce)
+
 
 🔷 **📚 Les Projets Académiques**
 
--- [**📊 Projet 1 : Construisez un modèle de classification des actualités**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
+-- [**📊 Projet 1 : La Construction un modèle de classification des actualités**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
 
  
