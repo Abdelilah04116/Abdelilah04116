@@ -43,6 +43,8 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Mach
 
 🔷 **📚 Les Projets Académiques**
 
--- [**📊 Projet 1 : La Construction un modèle de classification des actualités**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
+- [**📊 Projet 1 : La Construction un modèle de classification des actualités**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
+- [**📊 Projet 2 : RAG Application**](https://github.com/Abdelilah04116/RAG_Project)
+
 
  
