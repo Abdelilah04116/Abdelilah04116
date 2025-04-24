@@ -1,4 +1,4 @@
-# 👋 Hello, je suis OURTI ABDELILAH !
+# Salut, je suis OURTI ABDELILAH !
 
 ## 🏆 IA ENGINEERING|Data Scientist | Data Analyst 
 
