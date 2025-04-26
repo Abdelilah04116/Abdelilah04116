@@ -1,6 +1,10 @@
-# Salut, je suis OURTI ABDELILAH !
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Salut, je suis OURTI ABDELILAH**
 
-## 🏆 IA ENGINEERING|Data Scientist | Data Analyst 
+<div align="center">
+  <img src="" alt="Artificial" width="700">
+
+## IA Engineering|Data Scientist | Data Analyst 
+
 
 Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Machine Learning et Deep Learning** réalisés dans le cadre de formations et de travaux personnels.
 
