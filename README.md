@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Salut, je suis OURTI ABDELILAH**
 
 <div align="center">
-  <img src="" alt="Artificial" width="700">
+  <img src="https://github.com/Abdelilah04116/Abdelilah04116/blob/main/Blue%20Modern%20Artificial%20Intelligence%20Presentation.gif" alt="Artificial.gif" width="700">
 
 ## IA Engineering|Data Scientist | Data Analyst 
 
