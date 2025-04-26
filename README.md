@@ -1,10 +1,13 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Salut, je suis OURTI ABDELILAH**
 
 <div align="center">
-  <img src="Blue Modern Artificial Intelligence Presentation.gif" alt="Blue Modern Artificial Intelligence Presentation.gif" width="700">
+  <img src="Blue Modern Artificial Intelligence Presentation.gif" alt="Artificiel" width="700">
 
 ## IA Engineering|Data Scientist | Data Analyst 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ennajari-abdellah)
+  [![Kaggle](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ennajari.github.io)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdellahennajari2018@gmail.com)
 
 Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets de **Data Science, Machine Learning et Deep Learning** réalisés dans le cadre de formations et de travaux personnels.
 
