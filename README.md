@@ -13,11 +13,21 @@
   <img src="bienvenue_github.gif" alt="bienvenue_github" width="700">
 
 ------------
-## étudiant en ingénierie de l'intelligence artificielle
+## 👨‍🎓 Étudiant en Ingénierie de l'Intelligence Artificielle
 
-Je suis **Abdelilah Ourti**, un étudiant passionné et motivé, actuellement en deuxième année à l'**ENIAD** (École Nationale d'Intelligence Artificielle et du Digital) à Berkane, au Maroc.
-Je me spécialise en **Data Sciense Machine Learning, Deep Learning** et Vision par Ordinateur, et je porte un vif intérêt au Traitement du Langage Naturel (NLP) ainsi qu'aux Grands Modèles de Langage (LLMs).
-Je m'intéresse également au MLOps et à l’IA Responsable, avec pour objectif de contribuer au développement de solutions d’intelligence artificielle innovantes et éthiques.
+![Badge IA](https://img.shields.io/badge/Étudiant%20en%20Ingénierie%20de%20l'IA-20BEFF?style=flat-square&logo=python&logoColor=white)
+
+#### Je suis **Abdelilah Ourti**, un étudiant passionné et motivé, actuellement en deuxième année à l'**ENIAD** (École Nationale d'Intelligence Artificielle et du Digital) à Berkane, au Maroc.
+
+Je me spécialise en **Data Science**, **Machine Learning**, **Deep Learning** et **Vision par Ordinateur**. Je porte également un vif intérêt au **Traitement du Langage Naturel (NLP)** ainsi qu'aux **Grands Modèles de Langage (LLMs)**.
+
+Je m'intéresse également au **MLOps** et à l’**IA Responsable**, avec pour objectif de contribuer au développement de solutions d’intelligence artificielle innovantes et éthiques.
+
+### 🌍 Mon objectif :
+
+Je vise à **développer des solutions IA** éthiques et durables, avec un fort accent sur la **responsabilité** et l’**impact social** des technologies que nous créons.
+
+
 -----------
 ##  Mes Compétences
 
