@@ -47,13 +47,6 @@ Je vise à **développer des solutions IA** éthiques et durables, avec un fort 
 - **CNN** (Réseaux de Neurones Convolutifs) : Classification d'images, Détection d'objets, Segmentation sémantique
 - **RNN** (Réseaux de neurones récurrents)  : LSTM, GRU, Modélisation de séquences, Prévision de séries temporelles
 
-## 📩 Me Contacter  
-
-📧 [Email](mailto:abdelilahourti@gmail.com)  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/abdelilah-ourti-a529412a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-📊 [Kaggle](https://www.kaggle.com/abdelilahourti)
 
 🚀 N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 🚀  
 ## 📌 Mes Projets 
