@@ -47,7 +47,9 @@ mindmap
       Surveillance des Modèles
       Déploiement à l'Échelle
 ```
-<h2>Compétences et Technologies</h2>
+## <h2>Compétences et Technologies</h2>
+
+
 
 <style>
   summary {
