@@ -47,9 +47,7 @@ mindmap
       Surveillance des Modèles
       Déploiement à l'Échelle
 ```
-## <h2>Compétences et Technologies</h2>
-
-
+<h2 align="left">Compétences et Technologies</h2>
 
 <style>
   summary {
@@ -62,16 +60,20 @@ mindmap
 
   details {
     margin-bottom: 10px;
+    text-align: left;
   }
 
   div img {
     margin: 4px 4px 4px 0;
   }
+
+  h2 {
+    text-align: left;
+  }
 </style>
 
 <details open>
   <summary>Programming Languages</summary>
-  <br>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -88,7 +90,6 @@ mindmap
 
 <details>
   <summary>AI/ML Frameworks</summary>
-  <br>
   <div>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
@@ -105,7 +106,6 @@ mindmap
 
 <details>
   <summary>Computer Vision & NLP</summary>
-  <br>
   <div>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
     <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black">
@@ -122,7 +122,6 @@ mindmap
 
 <details>
   <summary>MLOps & Cloud</summary>
-  <br>
   <div>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -139,7 +138,6 @@ mindmap
 
 <details>
   <summary>3D & Graphics Tools</summary>
-  <br>
   <div>
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
     <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white">
