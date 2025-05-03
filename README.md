@@ -52,7 +52,7 @@ mindmap
 
 
 <details open >
-<summary style="text-align: left;"><b>Programming Languages</b></summary>
+<summary style="text-align: left;">Programming Languages</summary>
 <br>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
