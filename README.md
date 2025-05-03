@@ -50,12 +50,6 @@ mindmap
 -----------
 ##  Compétences et Technologies
 
-<div align="center">
-  <!-- Animated Skills Chart -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/skills-animation.gif" alt="Skills Animation" width="650">
-  
-</div>
-
 <details open>
 <summary><b>Programming Languages</b></summary>
 <br>
