@@ -135,11 +135,6 @@ mindmap
 </details>
 
 
-<div align="center">
-  <!-- Interactive Technology Expertise Radar Chart -->
-  <img src="https://github.com/ennajari/ennajari/blob/main/skills-radar-animated.gif" alt="Interactive Skills Radar" width="500">
-</div>
-
 ---
 
 <a id="github-stats"></a>
