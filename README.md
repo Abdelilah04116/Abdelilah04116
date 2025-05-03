@@ -47,7 +47,7 @@ mindmap
       Surveillance des Modèles
       Déploiement à l'Échelle
 ```
-<h2 align="left">Compétences et Technologies</h2>
+<h2 align="center">Compétences et Technologies</h2>
 
 <style>
   summary {
@@ -68,7 +68,7 @@ mindmap
   }
 
   h2 {
-    text-align: left;
+    text-align: center;
   }
 </style>
 
@@ -149,7 +149,7 @@ mindmap
     <img src="https://img.shields.io/badge/NeRF-4B32C3?style=for-the-badge">
   </div>
 </details>
-
+------------------------------------------------------------
 ---
 
 <a id="github-stats"></a>
