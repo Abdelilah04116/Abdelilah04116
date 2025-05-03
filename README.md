@@ -48,7 +48,9 @@ mindmap
       Déploiement à l'Échelle
 ```
 ------------------------------------------
-<h2 align="center">Compétences et Technologies</h2>
+## <h2 align="center">Compétences et Technologies</h2>
+
+
 
 <style>
   summary {
