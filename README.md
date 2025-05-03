@@ -27,7 +27,27 @@ Je m'intéresse également au **MLOps** et à l’**IA Responsable**, avec pour 
 
 Je vise à **développer des solutions IA** éthiques et durables, avec un fort accent sur la **responsabilité** et l’**impact social** des technologies que nous créons.
 
-
+------------
+## Objectif actuel
+```mermaid
+mindmap
+  root((Ingénierie de l'IA))
+    IA Générative
+      Modèles de Diffusion
+      Transformeurs
+      Systèmes RAG
+    Apprentissage Multimodal
+      Modèles Vision-Langage
+      Traitement Audio-Visuel
+    Vision par Ordinateur 3D
+      Rendu Neuronal
+      Analyse de Nuages de Points
+      Traitement de Maillages
+    MLOps
+      CI/CD pour le ML
+      Surveillance des Modèles
+      Déploiement à l'Échelle
+```
 -----------
 ##  Mes Compétences
 
