@@ -54,31 +54,6 @@ mindmap
   <!-- Animated Skills Chart -->
   <img src="https://github.com/ennajari/ennajari/blob/main/skills-animation.gif" alt="Skills Animation" width="650">
   
-  ```mermaid
-graph TD
-    AI((AI/ML: Artificial Intelligence & Machine Learning))
-    CV((Computer Vision: Image & Video Analysis))
-    NLP((Natural Language Processing: Text & Language Models))
-    MLOps((MLOps: Machine Learning Operations))
-    Tools((Tools: Libraries, Frameworks, and Platforms))
-    
-    AI --- CV
-    AI --- NLP
-    AI --- DB
-    AI --- MLOps
-    AI --- WD
-    MLOps --- Tools
-    WD --- Tools
-    
-    classDef main fill:#ffb3b3,stroke:#ff0000,stroke-width:2px
-    classDef major fill:#b3ffb3,stroke:#00cc44,stroke-width:2px
-    classDef minor fill:#b3d9ff,stroke:#0066cc,stroke-width:2px
-    
-    class AI main
-    class CV,NLP,MLOps major
-    class WD,DB,Tools minor
-
-  ```
 </div>
 
 <details open>
