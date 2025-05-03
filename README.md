@@ -49,8 +49,8 @@ mindmap
 ```
 -----------
 ##  Compétences et Technologies
-
-<details open>
+<div style="text-align: left;">
+<details open >
 <summary><b>Programming Languages</b></summary>
 <br>
 <div>
@@ -136,6 +136,7 @@ mindmap
 <div align="center">
   <!-- Interactive Technology Expertise Radar Chart -->
   <img src="https://github.com/ennajari/ennajari/blob/main/skills-radar-animated.gif" alt="Interactive Skills Radar" width="500">
+</div>
 </div>
 
 ---
