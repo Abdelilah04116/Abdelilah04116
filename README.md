@@ -23,12 +23,11 @@ Je me spécialise en **Data Science**, **Machine Learning**, **Deep Learning** e
 
 Je m'intéresse également au **MLOps** et à l’**IA Responsable**, avec pour objectif de contribuer au développement de solutions d’intelligence artificielle innovantes et éthiques.
 
-### 🌍 Mon objectif :
-
-Je vise à **développer des solutions IA** éthiques et durables, avec un fort accent sur la **responsabilité** et l’**impact social** des technologies que nous créons.
 
 ------------
-## Objectif actuel
+## Objectif actuel:
+Je vise à **développer des solutions IA** éthiques et durables, avec un fort accent sur la **responsabilité** et l’**impact social** des technologies que nous créons.
+
 ```mermaid
 mindmap
   root((Ingénierie de l'IA))
