@@ -132,32 +132,18 @@ mindmap
 
 --------------------------------------------------------------
 
- N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 
 <h2 align="center">Mes Projets</h2>
 
-<style>
-  h2 {
-    text-align: center;
-  }
-  
-  h3, ul, li {
-    text-align: left;
-  }
-  
-  .project-category {
-    font-weight: bold;
-    margin-bottom: 10px;
-    text-align: left;
-  }
-</style>
+ N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 
+
 
 <div class="project-category">
   🔷 <strong>📚 Data Scientist - OpenClassrooms / CentraleSupélec</strong>
 </div>
 
 <ul>
-  <li><a href="https://github.com/Abdelilah04116/Construisez-un-mod-le-de-scoring"><strong>📊 Projet 4 : La Construction d'un modèle de scoring</strong></a></li>
-  <li><a href="https://github.com/Abdelilah04116/Segmentez_des_clients_d_un_site_ecommerce"><strong>📊 Projet 5 : La Segmentation des clients d'un site e-commerce</strong></a></li>
+  <li align="left"><a href="https://github.com/Abdelilah04116/Construisez-un-mod-le-de-scoring"><strong>📊 Projet 4 : La Construction d'un modèle de scoring</strong></a></li>
+  <li align="left"><a href="https://github.com/Abdelilah04116/Segmentez_des_clients_d_un_site_ecommerce"><strong>📊 Projet 5 : La Segmentation des clients d'un site e-commerce</strong></a></li>
 </ul>
 
 <div class="project-category">
@@ -165,8 +151,8 @@ mindmap
 </div>
 
 <ul>
-  <li><a href="https://github.com/Abdelilah04116/fake-and-real-news-Classification-"><strong>📊 Projet 1 : La Construction un modèle de classification des actualités</strong></a></li>
-  <li><a href="https://github.com/Abdelilah04116/RAG_Project"><strong>📊 Projet 2 : RAG Application</strong></a></li>
+  <li align="left"><a href="https://github.com/Abdelilah04116/fake-and-real-news-Classification-"><strong>📊 Projet 1 : La Construction un modèle de classification des actualités</strong></a></li>
+  <li align="left"><a href="https://github.com/Abdelilah04116/RAG_Project"><strong>📊 Projet 2 : RAG Application</strong></a></li>
 </ul>
 
  
