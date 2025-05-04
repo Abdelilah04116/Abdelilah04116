@@ -132,19 +132,41 @@ mindmap
 
 --------------------------------------------------------------
 
-🚀 N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 🚀  
-## 📌 Mes Projets 
+ N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 
+<h2 align="center">Mes Projets</h2>
 
-🔷 **📚 Data Scientist - OpenClassrooms / CentraleSupélec**  
+<style>
+  h2 {
+    text-align: center;
+  }
+  
+  h3, ul, li {
+    text-align: left;
+  }
+  
+  .project-category {
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+</style>
 
-- [**📊 Projet 4 : La Construction d'un modèle de scoring**](https://github.com/Abdelilah04116/Construisez-un-mod-le-de-scoring)
-- [**📊 Projet 5 : La Segmentation des clients d'un site e-commerce**](https://github.com/Abdelilah04116/Segmentez_des_clients_d_un_site_ecommerce)
+<div class="project-category">
+  🔷 <strong>📚 Data Scientist - OpenClassrooms / CentraleSupélec</strong>
+</div>
 
+<ul>
+  <li><a href="https://github.com/Abdelilah04116/Construisez-un-mod-le-de-scoring"><strong>📊 Projet 4 : La Construction d'un modèle de scoring</strong></a></li>
+  <li><a href="https://github.com/Abdelilah04116/Segmentez_des_clients_d_un_site_ecommerce"><strong>📊 Projet 5 : La Segmentation des clients d'un site e-commerce</strong></a></li>
+</ul>
 
-🔷 **📚 Les Projets Académiques**
+<div class="project-category">
+  🔷 <strong>📚 Les Projets Académiques</strong>
+</div>
 
-- [**📊 Projet 1 : La Construction un modèle de classification des actualités**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
-- [**📊 Projet 2 : RAG Application**](https://github.com/Abdelilah04116/RAG_Project)
-
+<ul>
+  <li><a href="https://github.com/Abdelilah04116/fake-and-real-news-Classification-"><strong>📊 Projet 1 : La Construction un modèle de classification des actualités</strong></a></li>
+  <li><a href="https://github.com/Abdelilah04116/RAG_Project"><strong>📊 Projet 2 : RAG Application</strong></a></li>
+</ul>
 
  
