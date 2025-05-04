@@ -48,7 +48,7 @@ mindmap
       Déploiement à l'Échelle
 ```
 ------------------------------------------
-## <h2 align="center">Compétences et Technologies</h2>
+## Compétences et Technologies
 
 
 <details open>
@@ -128,27 +128,9 @@ mindmap
     <img src="https://img.shields.io/badge/NeRF-4B32C3?style=for-the-badge">
   </div>
 </details>
-------------------------------------------------------------
----
+</details open>
 
-<a id="github-stats"></a>
-
-### 🔹 Langages de Programmation
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras)
-- SQL, NoSQL (MongoDB)
-- React,HTML, CSS, Power Query, Excel VBA
-- Java ,**C**,**C++**,**C#**
-
-### 📊 Analyse et Visualisation de Données
-- Matplotlib, Seaborn,foluim
-
-### 🤖 Machine Learning & Deep learning 
-- Apprentissage supervisé et non supervisé : Régression, Classification, Clustering
-- Apprentissage par renforcement : Agents intelligents, Politique d’action, Récompense et Exploration/Exploitation
-- **NLP** (Traitement du langage naturel) : BERT, CountVectorizer, TF-IDF, Word2Vec
-- **CNN** (Réseaux de Neurones Convolutifs) : Classification d'images, Détection d'objets, Segmentation sémantique
-- **RNN** (Réseaux de neurones récurrents)  : LSTM, GRU, Modélisation de séquences, Prévision de séries temporelles
-
+--------------------------------------------------------------
 
 🚀 N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 🚀  
 ## 📌 Mes Projets 
