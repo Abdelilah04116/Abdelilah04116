@@ -155,4 +155,28 @@ mindmap
   <li align="left"><a href="https://github.com/Abdelilah04116/RAG_Project"><strong>📊 Projet 2 : RAG Application</strong></a></li>
 </ul>
 
+
+------------
+## Analytique GitHub
+
+<div align="center">
+  <!-- Animated Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelilah04116&theme=radical&border_radius=10&background=45,000428,004e92&stroke=transparent&ring=fb8c00&fire=f57c00&currStreakLabel=fff&date_format=M%20j%5B%2C%20Y%5D" height="180">
+</div>
+
+<div align="center">
+  <!-- Enhanced 3D Contribution Chart -->
+  <img src="https://github.com/Abdelilah04116/Abdelilah04116/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800">
+</div>
+
+<div align="center">
+  <!-- Animated Trophy Display -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdelilah04116&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="trophy">
+</div>
+
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelilah04116&theme=react-dark&bg_color=000428&color=ffffff&line=6a5acd&point=ffffff&area=true&hide_border=true" width="800">
+</div>
+
  
