@@ -10,7 +10,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelilahourti@gmail.com)
 
 <div>
-  <img src="bienvenue_github.gif" alt="bienvenue_github" width="700">
+  <img src="bienvenue_github (2).gif" alt="bienvenue_github" width="700">
 
 ------------
 ##  Étudiant en Ingénierie de l'Intelligence Artificielle
