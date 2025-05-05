@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Salut, je suis OURTI ABDELILAH**
 
-<div align="center">
+<div>
   <img src="Blue Modern Artificial Intelligence Presentation.gif" alt="Blue Modern Artificial Intelligence Presentation" width="700">
 
 ## IA Engineering|Data Scientist | Data Analyst 
@@ -9,11 +9,11 @@
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/abdelilahourti)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelilahourti@gmail.com)
 
-<div align="center">
+<div>
   <img src="bienvenue_github.gif" alt="bienvenue_github" width="700">
 
 ------------
-## 👨‍🎓 Étudiant en Ingénierie de l'Intelligence Artificielle
+##  Étudiant en Ingénierie de l'Intelligence Artificielle
 
 ![Badge IA](https://img.shields.io/badge/Étudiant%20en%20Ingénierie%20de%20l'IA-20BEFF?style=flat-square&logo=python&logoColor=white)
 
@@ -132,7 +132,7 @@ mindmap
 
 --------------------------------------------------------------
 
-<h2 align="center">Mes Projets</h2>
+<h2>Mes Projets</h2>
 
  N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 
 
