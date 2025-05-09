@@ -160,15 +160,6 @@ mindmap
 ------------
 ## Analytique GitHub
 
-<div align="center">
-  <!-- Animated Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelilah04116&theme=radical&border_radius=10&background=45,000428,004e92&stroke=transparent&ring=fb8c00&fire=f57c00&currStreakLabel=fff&date_format=M%20j%5B%2C%20Y%5D" height="180">
-</div>
-
-<div align="center">
-  <!-- Enhanced 3D Contribution Chart -->
-  <img src="https://github.com/Abdelilah04116/Abdelilah04116/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800">
-</div>
 
 <div align="center">
   <!-- Animated Trophy Display -->
